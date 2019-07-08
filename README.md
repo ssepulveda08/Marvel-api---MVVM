@@ -23,10 +23,10 @@ El patrón modelo–vista–modelo de vista (en inglés, model–view–viewmode
 
 ## Screenshot
 
-<img src="./screenshot/Screenshot_1.png" data-canonical-src="./screenshot/Screenshot_2019-06-25-14-35-30.png" width="200" height="400" />
-<img src="./screenshot/Screenshot_2.png" data-canonical-src="./screenshot/Screenshot_2019-06-25-14-35-05.png" width="200" height="400" />
-<img src="./screenshot/Screenshot_3.png" data-canonical-src="./screenshot/Screenshot_2019-06-25-14-34-59.png" width="200" height="400" />
-<img src="./screenshot/Screenshot_4.png" data-canonical-src="./screenshot/Screenshot_2019-06-25-14-34-59.png" width="200" height="400" />
+<img src="./Screenshot/Screenshot_1.png" data-canonical-src="./screenshot/Screenshot_2019-06-25-14-35-30.png" width="200" height="400" />
+<img src="./Screenshot/Screenshot_2.png" data-canonical-src="./screenshot/Screenshot_2019-06-25-14-35-05.png" width="200" height="400" />
+<img src="./Screenshot/Screenshot_3.png" data-canonical-src="./screenshot/Screenshot_2019-06-25-14-34-59.png" width="200" height="400" />
+<img src="./Screenshot/Screenshot_4.png" data-canonical-src="./screenshot/Screenshot_2019-06-25-14-34-59.png" width="200" height="400" />
 
 
 
